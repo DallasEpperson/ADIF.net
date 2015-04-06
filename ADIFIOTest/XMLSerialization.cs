@@ -74,7 +74,7 @@ namespace ADIFIOTest
             dataObject.Records.Add(secondRecord);
 
             var adx = ADIFIO.ConvertToADX(dataObject);
-            ADIFIO.SaveADX(dataObject, "C:\\data.xml");
+            ADIFIO.SaveADXFile(dataObject, "C:\\data.xml");
         }
     }
 }

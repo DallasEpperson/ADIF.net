@@ -4,7 +4,7 @@
 This wrapper is currently incomplete.  
 ####Goals for ADIF.net####
 - [x] Serialize data as .ADX file (ADIF XML)
-- [ ] Deserialize data from .ADX file (ADIF XML)
+- [x] Deserialize data from .ADX file (ADIF XML)
 - [ ] Serialize data as .ADI file
 - [ ] Deserialize data from .ADI file
 - [ ] Validate ADIF data
